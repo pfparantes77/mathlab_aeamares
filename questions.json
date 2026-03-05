@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "tema": "Matemática e literacia financeira",
+    "enunciado": "Um trabalhador recebe 1 200€ de salário bruto mensal.\n Se descontar 11% para a Segurança Social, qual o valor descontado?",
+    "opcoes": ["120€", "132€", "150€", "110€"],
+    "correta": 1,
+    "numero_associado": 37
+  },
+  {
+    "id": 2,
+    "tema": "Matemática e literacia financeira",
+    "enunciado": "O salário líquido resulta...",
+    "opcoes": ["Do salário bruto menos os descontos obrigatórios", "Do salário anual dividido por 12", "Do salário bruto acrescido de IRS" ,"Apenas do desconto para a Segurança Social"],
+    "correta": 0,
+    "numero_associado": 4
+  },
+  {
+    "id": 3,
+    "tema": "Matemática e literacia financeira",
+    "enunciado": "Um capital de 2 000€ aplicado a juro simples, à taxa de 5% ao ano, durante 3 anos, gera um montante de...",
+    "opcoes": ["2315€", "2250€", "2350€", "2300€"],
+    "correta": 3,
+    "numero_associado": 82
+  },
+  {
+    "id": 4,
+    "tema": "Matemática e literacia financeira",
+    "enunciado": "Um capital de 1 000€ aplicado a 4% ao ano, em regime de juro composto durante 2 anos, terá aproximadamente...",
+    "opcoes": ["1080€", "1081,60€", "1100€", "1 040€"],
+    "correta": 1,
+    "numero_associado": 19
+  },
+  {
+    "id": 5,
+    "tema": "Matemática e literacia financeira",
+    "enunciado": "A capitalização composta é financeiramente vantajosa porque...",
+    "opcoes": ["o juro incide sobre o capital e juros acumulados", "o juro incide apenas sobre o capital inicial", "a taxa é sempre menor", "não há risco financeiro"],
+    "correta": 0,
+    "numero_associado": 55
+  },
+  {
+    "id": 6,
+    "tema": "Matemática e literacia financeira",
+    "enunciado": "A retenção na fonte de IRS é...",
+    "opcoes": ["o valor final do imposto", "um imposto opcional", "um pagamento provisório", "um desconto para o banco"],
+    "correta": 2,
+    "numero_associado": 61
+  },
+  {
+    "id": 7,
+    "tema": "Matemática e literacia financeira",
+    "enunciado": "Se uma pessoa ganha 10€/hora e trabalha 160 horas por mês, o salário bruto mensal é...",
+    "opcoes": ["1500€", "1600€",  "1650€", "1700€"],
+    "correta": 1,
+    "numero_associado": 9
+  },
+  {
+    "id": 8,
+    "tema": "Matemática e literacia financeira",
+    "enunciado": "A literacia financeira promove...",
+    "opcoes": ["consumo impulsivo", "endividamento excessivo", "tomada de decisão informada", "dependência económica"],
+    "correta": 2,
+    "numero_associado": 73
+  },
+  {
+    "id": 9,
+    "tema": "Matemática e literacia financeira",
+    "enunciado": "Se um jovem investe 3 000€ a 5% ao ano durante 1 ano, em juro simples, o juro obtido é...",
+    "opcoes": ["120€", "150€", "200€", "300€"],
+    "correta": 1,
+    "numero_associado": 28
+  },
+  {
+    "id": 10,
+    "tema": "Matemática e literacia financeira",
+    "enunciado": "Um capital de 1 000€ aplicado a juro composto à taxa anual de 5% durante 3 anos resulta em…",
+    "opcoes": ["1150€", "1157,63€", "1160€", "1180€"],
+    "correta": 1,
+    "numero_associado": 90
+  },
+  {
+    "id": 11,
+    "tema": "Matemática e literacia financeira",
+    "enunciado": "Ao utilizar o Simulador de Depósitos a Prazo do Banco de Portugal, um aluno verifica que um depósito de 2 000€ a 3% ao ano, durante 2 anos, com capitalização anual, gera um montante aproximado de:",
+    "opcoes": ["2060€", "2060€", "2120€", "2121,80€"],
+    "correta": 3,
+    "numero_associado": 46
+  },
+  {
+    "id": 12,
+    "tema": "Matemática e literacia financeira",
+    "enunciado": "Um capital de 10 000€ é aplicado durante 2 anos a juro simples à taxa de 3%. O juro total será...",
+    "opcoes": ["300€", "450€", "600€", "900€"],
+    "correta": 2,
+    "numero_associado": 12
+  },
+  {
+    "id": 13,
+    "tema": "Matemática e literacia financeira",
+    "enunciado": "Dois investimentos têm a mesma taxa anual de 5%, mas um tem capitalização anual e outro mensal.\n\nQual é o mais vantajoso?",
+    "opcoes": ["O de capitalização anual.", "O de capitalização mensal.", "São equivalentes.", "Depende do capital inicial."],
+    "correta": 1,
+    "numero_associado": 67
+  },
+  {
+    "id": 14,
+    "tema": "Matemática e literacia financeira",
+    "enunciado": "A aplicação da Matemática no estudo dos salários e impostos contribui para...",
+    "opcoes": ["desinformação económica", "dependência do Estado", "redução da responsabilidade individual", "autonomia financeira e cidadania ativa"],
+    "correta": 3,
+    "numero_associado": 31
+  },
+  {
+    "id": 15,
+    "tema": "Matemática e literacia financeira",
+    "enunciado": "O conceito de progressividade fiscal está associado a...",
+    "opcoes": ["igualdade absoluta de taxas", "justiça social e redistribuição", "isenção de impostos", "taxa única obrigatória"],
+    "correta": 1,
+    "numero_associado": 88
+  },
+  {
+    "id": 16,
+    "tema": "Matemática e literacia financeira",
+    "enunciado": "Um crédito com TAEG elevada significa...",
+    "opcoes": ["menor custo total", "ausência de juros", "maior custo total do empréstimo", "juros simples obrigatórios"],
+    "correta": 2,
+    "numero_associado": 24
+  },
+  {
+    "id": 17,
+    "tema": "Matemática e literacia financeira",
+    "enunciado": "Se um trabalhador recebe 15 000€ anuais e o IRS é progressivo, isso significa que...",
+    "opcoes": ["a taxa aumenta à medida que o rendimento aumenta", "todos pagam a mesma percentagem", "o imposto é fixo", "o IRS é opcional"],
+    "correta": 0,
+    "numero_associado": 95
+  },
+  {
+    "id": 18,
+    "tema": "Matemática e literacia financeira",
+    "enunciado": "Ao comparar dois depósitos a prazo, um cidadão financeiramente responsável deve analisar...",
+    "opcoes": ["apenas o banco", "a taxa de juro e o prazo", "a publicidade", "apenas o capital inicial"],
+    "correta": 1,
+    "numero_associado": 7
+  },
+  {
+    "id": 19,
+    "tema": "Matemática e literacia financeira",
+    "enunciado": "Um capital de 2 500€ é aplicado a juro simples à taxa de 6% durante 8 meses. O juro obtido é...",
+    "opcoes": ["60€", "80€", "100€", "120€"],
+    "correta": 2,
+    "numero_associado": 58
+  },
+  {
+    "id": 20,
+    "tema": "Matemática e literacia financeira",
+    "enunciado": "Se 3 000€ forem aplicados a 4% ao ano, com capitalização semestral, durante 1 ano, o montante será aproximadamente...",
+    "opcoes": ["3120€", "3121,20€", "3122,40€", "3240€"],
+    "correta": 1,
+    "numero_associado": 14
+  }
+]
